@@ -1,2 +1,2 @@
-# Repository_name
+# Trend following code for crypto
 
